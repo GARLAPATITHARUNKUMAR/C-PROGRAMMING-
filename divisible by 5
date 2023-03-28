@@ -1,0 +1,16 @@
+#include<stdio.h>
+int main ()
+{
+	printf("reg.no:191911347");
+	int n,i;
+	printf("\nenter the number");
+	scanf("%d",&n);
+	for(i=0;i<=n;i++)
+	{
+		if(i%5==0)
+		{
+			printf("\n%d",i);
+		}
+	}
+	return 0;
+}
