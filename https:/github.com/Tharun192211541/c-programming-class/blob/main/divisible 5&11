@@ -2,7 +2,7 @@
 int main ()
 {
 	int n;
-	printf("reg.no:192211541");
+	printf("reg.no:191911347");
 	printf("\nenter the number");
 	scanf("%d",&n);
 	if(n%5==0)
